@@ -1,3 +1,5 @@
+// Example of defining class 
+
 #include<iostream>
 using namespace std;
 class student{
