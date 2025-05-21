@@ -1,3 +1,5 @@
+// Example of buiding method(function) in c++
+
 #include<iostream>
 using namespace std;
 void name()
