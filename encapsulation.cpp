@@ -1,3 +1,5 @@
+// Implementing encapsulation in C++
+
 #include<iostream>
 using namespace std;
 class bankaccount{
