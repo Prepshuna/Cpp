@@ -1,3 +1,5 @@
+// To find area and perimeter of a rectangle using class, object and method
+
 #include<iostream>
 using namespace std;
 class Calc{
